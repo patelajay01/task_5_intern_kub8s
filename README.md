@@ -104,3 +104,9 @@ minikube image load <image-name>
 
 
 ---
+// all screenshorts<img width="1905" height="1020" alt="Screenshot 2025-08-13 091114" src="https://github.com/user-attachments/assets/a3aa9313-26e3-49a8-bd47-43cb3fbd81dc" />
+
+<img width="726" height="300" alt="Screenshot 2025-08-13 135537" src="https://github.com/user-attachments/assets/e55322f7-597d-4b1b-ac23-e9d90f6be312" />
+<img width="1090" height="331" alt="Screenshot 2025-08-13 135627" src="https://github.com/user-attachments/assets/6bf9b6d4-c285-4da4-8f42-1160610d4f9b" />
+<img width="914" height="430" alt="Screenshot 2025-08-13 135706" src="https://github.com/user-attachments/assets/09308e12-234f-49f1-890c-c20b4fed4e40" />
+<img width="883" height="346" alt="Screenshot 2025-08-13 135802" src="https://github.com/user-attachments/assets/43f6a11e-9910-4e6a-b2f2-5df214225d99" />
